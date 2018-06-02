@@ -6,11 +6,11 @@
 
 The Cloud Native Trail Map provides an overview for enterprises starting their cloud native journey.
 
-(/CNCF_TrailMap_latest.png)
+(https://./CNCF_TrailMap_latest.png)
 
 ## Current Version
 
-(/CloudNativeLandscape_latest.png)
+(https://./CloudNativeLandscape_latest.png)
 
 ## Interactive Version
 
@@ -18,5 +18,5 @@ Please see [landscape.cncf.io](https://landscape.cncf.io).
 
 ## Serverless
 
-(/CloudNativeLandscape_Serverless_latest.png)
+(https://./CloudNativeLandscape_Serverless_latest.png)
 
