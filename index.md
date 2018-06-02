@@ -21,5 +21,6 @@ Please see [landscape.cncf.io](https://landscape.cncf.io).
 ![](https://rawc0der.github.io/rawdata-labs/CloudNativeLandscape_Serverless_latest.png)
 
 ## Software Conformance
-![](https://rawc0der.github.io/rawdata-labs/certified_kubernetes_color-222x300.png) For enterprises and startups using Kubernetes, conformance guarantees interoperability from one Kubernetes installation to the next.
-
+ For enterprises and startups using Kubernetes, conformance guarantees interoperability from one Kubernetes installation to the next.
+ 
+![](https://rawc0der.github.io/rawdata-labs/certified_kubernetes_color-222x300.png)
