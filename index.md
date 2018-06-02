@@ -6,7 +6,7 @@
 
 The Cloud Native Trail Map provides an overview for enterprises starting their cloud native journey.
 
-(https://./CNCF_TrailMap_latest.png)
+![cd](https://./CNCF_TrailMap_latest.png)
 
 ## Current Version
 
