@@ -22,5 +22,5 @@ Please see [landscape.cncf.io](https://landscape.cncf.io).
 
 ## Software Conformance
  For enterprises and startups using Kubernetes, conformance guarantees interoperability from one Kubernetes installation to the next.
- 
+ With Kubernetes we can easily manage many virtual clusters for multiple development, testing and production environments using a range of container tools including Docker. With dockerized applications you can achieve high-availability, scalable infrastructure ready for hundreds of deployments per day.
 ![](https://rawc0der.github.io/rawdata-labs/certified_kubernetes_color-222x300.png)
